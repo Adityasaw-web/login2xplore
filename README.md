@@ -1,2 +1,6 @@
 # login2xplore
-First Repository
+HELLO!!!
+
+This is my First Repository
+ i love to play : volley ball :.
+ I love : Cooking:.
